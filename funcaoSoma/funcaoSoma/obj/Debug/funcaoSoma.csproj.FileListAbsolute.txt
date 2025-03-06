@@ -1,0 +1,7 @@
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\bin\Debug\funcaoSoma.exe.config
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\bin\Debug\funcaoSoma.exe
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\bin\Debug\funcaoSoma.pdb
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\obj\Debug\funcaoSoma.csproj.AssemblyReference.cache
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\obj\Debug\funcaoSoma.csproj.CoreCompileInputs.cache
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\obj\Debug\funcaoSoma.exe
+C:\Users\Luanm\source\repos\funcaoSoma\funcaoSoma\obj\Debug\funcaoSoma.pdb

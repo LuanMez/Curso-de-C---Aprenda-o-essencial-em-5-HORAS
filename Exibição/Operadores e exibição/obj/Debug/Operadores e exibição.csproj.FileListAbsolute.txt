@@ -1,0 +1,7 @@
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\bin\Debug\Operadores e exibição.exe.config
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\bin\Debug\Operadores e exibição.exe
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\bin\Debug\Operadores e exibição.pdb
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\obj\Debug\Operadores e exibição.csproj.AssemblyReference.cache
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\obj\Debug\Operadores e exibição.csproj.CoreCompileInputs.cache
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\obj\Debug\Operadores e exibição.exe
+C:\Users\Luanm\source\repos\Operadores e exibição\Operadores e exibição\obj\Debug\Operadores e exibição.pdb

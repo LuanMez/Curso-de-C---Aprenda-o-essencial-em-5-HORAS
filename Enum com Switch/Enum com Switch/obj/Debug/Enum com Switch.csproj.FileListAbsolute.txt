@@ -1,0 +1,7 @@
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\bin\Debug\Enum com Switch.exe.config
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\bin\Debug\Enum com Switch.exe
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\bin\Debug\Enum com Switch.pdb
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\obj\Debug\Enum com Switch.csproj.AssemblyReference.cache
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\obj\Debug\Enum com Switch.csproj.CoreCompileInputs.cache
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\obj\Debug\Enum com Switch.exe
+C:\Users\Luanm\source\repos\Enum com Switch\Enum com Switch\obj\Debug\Enum com Switch.pdb
