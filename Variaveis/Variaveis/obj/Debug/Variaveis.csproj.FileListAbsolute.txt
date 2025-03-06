@@ -1,0 +1,7 @@
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\Luanm\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
