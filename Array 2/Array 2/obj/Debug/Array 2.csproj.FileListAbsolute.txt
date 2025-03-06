@@ -1,0 +1,7 @@
+C:\Users\Luanm\source\repos\Array 2\Array 2\bin\Debug\Array 2.exe.config
+C:\Users\Luanm\source\repos\Array 2\Array 2\bin\Debug\Array 2.exe
+C:\Users\Luanm\source\repos\Array 2\Array 2\bin\Debug\Array 2.pdb
+C:\Users\Luanm\source\repos\Array 2\Array 2\obj\Debug\Array 2.csproj.AssemblyReference.cache
+C:\Users\Luanm\source\repos\Array 2\Array 2\obj\Debug\Array 2.csproj.CoreCompileInputs.cache
+C:\Users\Luanm\source\repos\Array 2\Array 2\obj\Debug\Array 2.exe
+C:\Users\Luanm\source\repos\Array 2\Array 2\obj\Debug\Array 2.pdb
